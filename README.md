@@ -4,7 +4,7 @@ Binary classification of Spanish tweets to identify mentions of professions duri
 
 ## The problem
 
-During the COVID-19 pandemic, certain professions faced disproportionate health risks. Detecting profession mentions in social media enables real-time analysis of which occupations are being discussed in the context of the crisis, complementing traditional epidemiological surveillance.
+During the COVID-19 pandemic, certain professions faced disproportionate health risks. Detecting profession mentions in social media enables analysis of which occupations are being discussed in the context of the crisis, complementing traditional epidemiological surveillance.
 
 ## Dataset
 
@@ -37,7 +37,7 @@ Data from the [ProfNER shared task](https://temu.bsc.es/smm4h-spanish), hosted o
 └── .gitignore
 ```
 
-The dataset is loaded directly from Hugging Face inside the notebook — no local data files needed.
+The dataset is loaded directly from Hugging Face inside the notebook. No local data files needed.
 
 ## How to run
 
@@ -54,4 +54,4 @@ Python · Hugging Face Transformers · PyTorch · scikit-learn · matplotlib · 
 ## Author
 
 **Laura Benkel Brander** — Sociologist & Data Scientist  
-[LinkedIn](https://www.linkedin.com/in/laurabenkel) · laura.benkel@gmail.com
+[LinkedIn](https://www.linkedin.com/in/laurabenkel)
